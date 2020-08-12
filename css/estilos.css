@@ -1,0 +1,46 @@
+#titulo{
+	background-color: black;
+	color: white;
+	font-size: 24px;
+	text-align: center;
+	margin-top: 30px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	float: top;
+}
+
+#imagem{
+	background-color: red;
+	height: 200px; 
+	width: 350px;
+	margin-top: 10px;
+	float: left;
+	margin-left: 100px;
+}
+
+#imagem img{
+	height: 100%;
+	width: 100%;
+}
+
+#textoPrincipal{
+	height: 190px;
+	width: 650px;	
+	float: left;
+	margin-top: 10px;
+	background-color: grey;
+	margin-left: 10px;
+	text-align: justify;
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-left: 10px;
+}
+
+#textoSecundario{
+	width: 1050px;
+	margin-left: 100px;
+}
+
+
+
+
